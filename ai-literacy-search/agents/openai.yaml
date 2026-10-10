@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI+信息素养搜题"
+  short_description: "准备答题预热Chrome与题库，同题按文字用标准答案，类似题仅借鉴方法，只补证据缺口"
+  default_prompt: "使用 $ai-literacy-search：说“准备答题”时预热Chrome与技能资料；发题时复用证据、直接推导或先查本地题库，同题按当前选项文字映射，类似题仅借鉴方法，动态事实实时核验，简短回复答案、依据、来源及置信度。"
