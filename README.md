@@ -100,6 +100,7 @@ Codex 理解题目、选择来源并核对条件；Skills 提供证据规则、�
 ```text
 ├─ README.md                  项目介绍与快速开始
 ├─ 使用说明.md                完整使用说明
+├─ 校赛原题-省赛提速分析.md    题型分布与检索路径优化记录
 ├─ setup.ps1                  安装与更新脚本
 ├─ .gitignore                 忽略运行时产物
 └─ ai-literacy-search/
