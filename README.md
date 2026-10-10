@@ -1,4 +1,4 @@
-# AI+ 信息素养检索助手
+# AI+信息素养大赛检索助手
 
 基于 **Codex Skills + Playwright** 的信息素养学习与备赛工具。接收完整题干和选项，优先复用适用证据与本地题库；需要补充资料时，再按证据缺口查询官方说明、API 或数据库页面，给出简短答案、关键依据、来源和置信度。
 
@@ -114,3 +114,5 @@ Codex 理解题目、选择来源并核对条件；Skills 提供证据规则、�
 仓库只包含技能源码与文档，不含账号、cookie、浏览器 profile 或付费数据库全文。分发时请保留 `setup.ps1` 与 `ai-literacy-search` 文件夹的相对位置。
 
 进一步阅读：[题库说明](ai-literacy-search/references/question-bank.md) · [范围说明](ai-literacy-search/references/exam-scope.md) · [浏览器接口](ai-literacy-search/references/browser.md)。
+
+作者QQ:2137966110——如有更好意见沟通交流
