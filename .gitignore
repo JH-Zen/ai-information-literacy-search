@@ -1,0 +1,20 @@
+# 运行时与本地产物
+node_modules/
+.ailiteracy-install.json
+.ailiteracy-runtime/
+
+# 浏览器与测试运行遗留
+.playwright-cli/
+validation/
+playwright-report/
+test-results/
+*.log
+
+# 系统与编辑器
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.pyc
