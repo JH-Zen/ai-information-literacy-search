@@ -1,8 +1,0 @@
-node_modules/
-.playwright-cli/
-搜题结果/
-validation/**/profiles/
-validation/**/runs/
-*.log
-.env
-*.tmp
